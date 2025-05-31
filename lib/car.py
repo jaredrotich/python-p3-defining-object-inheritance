@@ -1,7 +1,5 @@
 from vehicle import Vehicle
 
-class Car(Vehicle):
-    from vehicle import Vehicle
 
 class Car(Vehicle):
     def go(self):
